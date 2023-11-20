@@ -1,0 +1,97 @@
+
+/* 
+
+     ============================================================
+      
+          _____________   ^^^^^^^^^^    ____________________
+
+[   By ~Aryan Maurya Mr.perfect https://amsrportfolio.netlify.app  ]
+
+          _____________   ^^^^^^^^^^    ____________________
+
+     ============================================================
+
+*/
+
+body {
+    font-size: 15pt;
+    height: 712px;
+    background: black;
+    width: 391px;
+    color: white;
+    font-family: 'Train One', cursive;
+    overflow:hidden;
+}
+*{
+  margin: 0;
+  padding: 0;
+}
+.showScore{
+  position: fixed;
+}
+.starting{
+  background: white;
+  color: black;
+  position: absolute;
+  width: 95%;
+  height: 200px;
+  top: 200px;
+  text-align: center;
+  left: 10px;
+  border-radius: 5px;
+  display: block;
+  z-index: 99999;
+}
+.button{
+  width: 80%;
+  height: 100px;
+  font-size: 35px;
+  letter-spacing: 8px;
+  background: #00ABFF;
+  color: white;
+  border: 5px solid #00ABFF;
+  border-radius: 1px;
+  font-weight: 999;
+  margin: 5px;
+  font-family:'Train One', cursive;
+  z-index:99999;
+}
+.button:hover{
+  outline:5px solid #9DDFFF;
+}
+.O{
+  font-size:40px;
+  margin: 5px;
+}
+.point{
+  font-size: 30px;
+  letter-spacing: 5px;
+  margin: 5px;
+}
+.set{
+    position:absolute;
+    top:0px;
+    left:341px;
+    width:50px;
+    height:50px;
+    font-size:30px;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    background:rgba(255,255,255,0.5);
+    border:none;
+}
+
+/* 
+
+     ============================================================
+      
+          _____________   ^^^^^^^^^^    ____________________
+
+[   By ~Aryan Maurya Mr.perfect https://amsrportfolio.netlify.app  ]
+
+          _____________   ^^^^^^^^^^    ____________________
+
+     ============================================================
+
+*/
